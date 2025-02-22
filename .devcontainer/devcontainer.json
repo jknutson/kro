@@ -7,18 +7,10 @@
 
   // Features to add to the dev container. More info: https://containers.dev/features.
   "features": {
-    "ghcr.io/devcontainers/features/azure-cli:1": {
-      "version": "1.2.5"
-    },
-    "ghcr.io/mpriscella/features/kind:1": {
-      "version": "1.0.1"
-    },
-    "ghcr.io/dhoeric/features/k9s:1": {
-      "version": "1.0.1"
-    },
-    "ghcr.io/dhoeric/features/hadolint:1": {
-      "version": "1.0.1"
-    }
+    "ghcr.io/devcontainers/features/azure-cli:1": {},
+    "ghcr.io/mpriscella/features/kind:1": {},
+    "ghcr.io/dhoeric/features/k9s:1": {},
+    "ghcr.io/dhoeric/features/hadolint:1": {}
   }
 
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
